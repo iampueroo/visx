@@ -1,21 +1,19 @@
 {
-  "name": "@visx/demo-shape-splitlinepath",
-  "description": "Standalone visx splitlinepath demo.",
+  "name": "@visx/demo-geo-albers-usa",
+  "description": "Standalone visx geo-albers-usa demo.",
   "main": "index.tsx",
   "private": true,
   "dependencies": {
     "@babel/runtime": "^7.8.4",
     "@types/react": "^16",
     "@types/react-dom": "^16",
-    "@visx/curve": "latest",
-    "@visx/gradient": "latest",
+    "@visx/geo": "latest",
     "@visx/responsive": "latest",
-    "@visx/scale": "latest",
-    "@visx/shape": "latest",
-    "lodash": "^4.17.21",
-    "react": "^16",
-    "react-dom": "^16",
+    "d3-geo": "^3.0.1",
+    "react": "^16.8",
+    "react-dom": "^16.8",
     "react-scripts-ts": "3.1.0",
+    "topojson-client": "^3.1.0",
     "typescript": "^3"
   },
   "keywords": [
@@ -23,6 +21,9 @@
     "d3",
     "react",
     "visx",
-    "splitline"
+    "geojson",
+    "geo",
+    "mercator",
+    "map"
   ]
 }

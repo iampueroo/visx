@@ -1,15 +1,21 @@
 # Changelog
+- [v1.16.0](#v1160)
+- [v1.15.0](#v1150)
+- [v1.14.1](#v1141)
+- [v1.14.0](#v1140)
+- [v1.13.0](#v1130)
+- [v1.12.0](#v1120)
 - [v1.11.2](#v1112)
 - [v1.11.1](#v1111)
-- [v1.11.0](#v1110)
-- [v1.10.1](#v1101)
-- [v1.10.0](#v1100)
-- [v1.9.1](#v191)
-- [v1.9.0](#v190)
-- [v1.8.0](#v180)
 <details>
   <summary>Older Releases...</summary>
   <ul>
+  <li><a href="#v1110">v1.11.0</a></li>
+  <li><a href="#v1101">v1.10.1</a></li>
+  <li><a href="#v1100">v1.10.0</a></li>
+  <li><a href="#v191">v1.9.1</a></li>
+  <li><a href="#v190">v1.9.0</a></li>
+  <li><a href="#v180">v1.8.0</a></li>
   <li><a href="#v174">v1.7.4</a></li>
   <li><a href="#v173">v1.7.3</a></li>
   <li><a href="#v172">v1.7.2</a></li>
@@ -110,6 +116,90 @@
 </details>
 
 ------
+# v1.16.0 (2021-07-02)
+
+#### :rocket: Enhancements
+
+- feat(shape): add more segmentation for SplitLinePath [#1261](https://github.com/airbnb/visx/pull/1261)
+
+#### :bug: Bug Fix
+
+- feat(shape): add more segmentation for SplitLinePath [#1261](https://github.com/airbnb/visx/pull/1261)
+  
+#### :trophy: Contributors
+- [kristw](https://github.com/kristw)
+
+# v1.15.0 (2021-07-01)
+
+#### :rocket: Enhancements
+
+- feat(brush): add using widows move events with brush [#1164](https://github.com/airbnb/visx/pull/1164)
+  
+#### :trophy: Contributors
+- [d3x42](https://github.com/d3x42)
+
+# v1.14.1 (2021-07-01)
+
+#### :bug: Bug Fix
+
+- fix(zoom): fix provided zoom interface [#1257](https://github.com/airbnb/visx/pull/1257)
+
+### :memo: Documentation
+
+- Add Data 2 the People to In the Wild list [#1256](https://github.com/airbnb/visx/pull/1256)
+  
+#### :trophy: Contributors
+- [boy51](https://github.com/boy51)
+- [schillerk](https://github.com/schillerk)
+
+# v1.14.0 (2021-06-25)
+
+#### :rocket: Enhancements
+
+- feat(scale): support rounding for symlog [#1252](https://github.com/airbnb/visx/pull/1252)
+- feat(animatedaxis): add tickComponent support (#977) [#1228](https://github.com/airbnb/visx/pull/1228)
+
+#### :bug: Bug Fix
+
+- build: skip release workflow when in forked repo [#1251](https://github.com/airbnb/visx/pull/1251)
+
+### :house:  Internal
+
+- build: skip release workflow when in forked repo [#1251](https://github.com/airbnb/visx/pull/1251)
+- build: run happo on push [#1254](https://github.com/airbnb/visx/pull/1254)
+  
+#### :trophy: Contributors
+- [johnathanludwig](https://github.com/johnathanludwig)
+- [kristw](https://github.com/kristw)
+- [williaster](https://github.com/williaster)
+
+# v1.13.0 (2021-06-16)
+
+#### :rocket: Enhancements
+
+- new(geo): pass projection to child override, add U.S.A. demo [#1236](https://github.com/airbnb/visx/pull/1236)
+
+#### :bug: Bug Fix
+
+- new(geo): pass projection to child override, add U.S.A. demo [#1236](https://github.com/airbnb/visx/pull/1236)
+
+### :memo: Documentation
+
+- docs(xychart): fix typos [#1232](https://github.com/airbnb/visx/pull/1232)
+  
+#### :trophy: Contributors
+- [danielimmke](https://github.com/danielimmke)
+- [johnathanludwig](https://github.com/johnathanludwig)
+
+# v1.12.0 (2021-06-03)
+
+#### :rocket: Enhancements
+
+- new(shape): support dynamic fill directly in Pie [#1225](https://github.com/airbnb/visx/pull/1225)
+  
+#### :trophy: Contributors
+- [iampueroo](https://github.com/iampueroo)
+
 # v1.11.2 (2021-05-21)
 
 #### :bug: Bug Fix
